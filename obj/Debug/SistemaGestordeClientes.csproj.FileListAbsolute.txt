@@ -1,0 +1,8 @@
+C:\Users\ferna\source\repos\CursoCsharp\SistemaGestordeClientes\bin\Debug\SistemaGestordeClientes.exe.config
+C:\Users\ferna\source\repos\CursoCsharp\SistemaGestordeClientes\bin\Debug\SistemaGestordeClientes.exe
+C:\Users\ferna\source\repos\CursoCsharp\SistemaGestordeClientes\bin\Debug\SistemaGestordeClientes.pdb
+C:\Users\ferna\source\repos\CursoCsharp\SistemaGestordeClientes\obj\Debug\SistemaGestordeClientes.csproj.AssemblyReference.cache
+C:\Users\ferna\source\repos\CursoCsharp\SistemaGestordeClientes\obj\Debug\SistemaGestordeClientes.csproj.SuggestedBindingRedirects.cache
+C:\Users\ferna\source\repos\CursoCsharp\SistemaGestordeClientes\obj\Debug\SistemaGestordeClientes.csproj.CoreCompileInputs.cache
+C:\Users\ferna\source\repos\CursoCsharp\SistemaGestordeClientes\obj\Debug\SistemaGestordeClientes.exe
+C:\Users\ferna\source\repos\CursoCsharp\SistemaGestordeClientes\obj\Debug\SistemaGestordeClientes.pdb
